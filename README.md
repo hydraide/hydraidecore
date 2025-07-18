@@ -16,14 +16,17 @@
 
 **Nope. You don’t have to build anything manually.**
 
-The HydrAIDE Core is already included in the official HydrAIDE server,  
+The HydrAIDE Core is already included in the official HydrAIDE server,
 which we distribute as a **ready-to-run Docker container**.
+
+> ⚠️ **Heads up:** While the Core *can* be used as an embedded engine, it currently lacks public documentation and examples for standalone use.
+> That means: **unless you’re a contributor or working on Core development**, we strongly recommend using the **Docker version** instead.
 
 This repository is intended for:
 
-- developers who want to **debug or extend** the engine,
-- teams embedding HydrAIDE Core **as an in-process database** in their own Go apps,
-- or advanced users building for **IoT or edge** deployments.
+* developers who want to **debug or extend** the engine,
+* teams embedding HydrAIDE Core **as an in-process database** in their own Go apps *(with direct help from the maintainers)*,
+* or advanced users building for **IoT or edge** deployments who understand the internals.
 
 ---
 

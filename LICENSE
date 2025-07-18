@@ -1,0 +1,88 @@
+**HydrAIDE Core – SSPL v1 + Commercial Addendum**
+Copyright (C) 2025 Gebri Péter & Trendizz Systems
+License Version: 1.0
+Date: 2025-07-18
+
+---
+
+## License Summary (Non-Binding)
+
+This software is licensed under the **Server Side Public License v1.0 (SSPL)**,
+with additional commercial restrictions defined below.
+
+The license allows usage, modification, and self-hosted deployment — but restricts
+offering the software **as a service** (e.g., SaaS, PaaS, white-label APIs) without a commercial agreement.
+
+For SDK usage, refer to the LGPL-3.0 license in the `sdk/` directory.
+
+---
+
+## License Text
+
+This software is licensed under the Server Side Public License, version 1, as published by MongoDB, Inc. See full license text here:
+[https://www.mongodb.com/licensing/server-side-public-license](https://www.mongodb.com/licensing/server-side-public-license)
+
+---
+
+## Additional Terms and Commercial Addendum
+
+This software is part of the **HydrAIDE ecosystem**, developed and maintained by
+**Gebri Péter** and **Trendizz Systems**. To ensure the long-term sustainability
+and integrity of the system, the following terms apply:
+
+### 1. Permitted Use
+
+You may use, modify, and deploy the HydrAIDE Core **for internal or embedded use**,
+even in commercial environments, **as long as the Core is not provided to third parties as a standalone or rebranded service**.
+
+### 2. Prohibited Use without Commercial License
+
+The following use cases **require a separate commercial agreement**:
+
+* Offering the Core as a **hosted service or API**
+* Selling it under a different name (white-labeling)
+* Embedding it in products used by external clients without source sharing
+* Repackaging and commercializing it in SaaS or data-as-a-service models
+
+### 3. Derivative Works
+
+Modifications and forks:
+
+* Must be clearly documented and attributed
+* Must remain under SSPL
+* Cannot strip or rebrand the origin of the software
+
+### 4. License Enforcement and Revocation
+
+Violation of these terms (including circumvention attempts) will result in:
+
+* Termination of license rights
+* Prohibition of further use or deployment
+* Potential legal action
+
+### 5. Intent and Philosophy
+
+The HydrAIDE Core is not just software — it is part of a strategic, human-centered system
+that prioritizes long-term value over rapid commodification. This license is designed to:
+
+* Protect against uncontrolled SaaS commercialization
+* Ensure alignment with the **Trendizz** and **HydrAIDE** value system
+* Sustain a **dinasztikus örökség** and architectural integrity
+
+---
+
+## Commercial Licensing
+
+If you intend to use this software in any way that falls outside the permitted uses listed above,
+please contact us to obtain a commercial license.
+
+📧 [peter.gebri@trendizz.com](mailto:peter.gebri@trendizz.com)
+🔗 [https://hydraide.io](https://hydraide.io)
+
+---
+
+## Authors
+
+Gebri Péter
+Trendizz Systems
+📅 2025-07-18
